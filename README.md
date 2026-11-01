@@ -1,5 +1,7 @@
 <img width="1280" height="683" alt="Screenshot 2026-11-01 at 15 03 41" src="https://github.com/user-attachments/assets/0f8ab511-20eb-42e2-8a93-18d3110468de" />
 <img width="1280" height="681" alt="Screenshot 2026-11-01 at 15 05 09" src="https://github.com/user-attachments/assets/2d01aac1-3be2-4e05-9ad1-f389a691c149" />
+<img width="1280" height="679" alt="Screenshot 2026-11-01 at 15 13 25" src="https://github.com/user-attachments/assets/eb4cbf73-6f0b-4451-b9c9-98c90ad7824d" />
+<img width="1280" height="682" alt="Screenshot 2026-11-01 at 15 15 43" src="https://github.com/user-attachments/assets/28c43556-f607-4da8-aec2-bff406009798" />
 
 # Halloween-2026-pumpkins-and-stardust-
 A little digital home for our Halloween memories. 🎃✨ Two interconnected experiences—Halloween Memories and Memory Galaxy—created to celebrate the moments, stories, and connections that made our school Halloween special.
